@@ -2,6 +2,11 @@
 
 This is the repository to reproduce the results of our paper **"[Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/abs/1903.10663)"**.
 
+## Approach
+
+<div align="center">
+  <img src="figures/architecture.png">
+</div>
 
 ## Prerequisite
 
@@ -51,14 +56,13 @@ R@   8: 0.9433
 ## Citation
 
 ```
-@article{JunKo3Kim2019,
- Title = {Combination of Multiple Global Descriptors for Image Retrieval},
- Author = {HeeJae Jun and ByungSoo Ko and Youngjoon Kim and Insik Kim and Jongtack Kim},
- Year = {2019},
- Eprint = {arXiv:1903.10663},
+@article{jun2019combination,
+    title={Combination of Multiple Global Descriptors for Image Retrieval},
+    author={HeeJae Jun and ByungSoo Ko and Youngjoon Kim and Insik Kim and Jongtack Kim},
+    journal={arXiv preprint arXiv:1903.10663}
+    year={2019}
 }
 ```
-
 
 ## License
 
