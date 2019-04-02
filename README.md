@@ -57,10 +57,10 @@ R@   8: 0.9433
 
 ```
 @article{jun2019combination,
-    title={Combination of Multiple Global Descriptors for Image Retrieval},
-    author={HeeJae Jun and ByungSoo Ko and Youngjoon Kim and Insik Kim and Jongtack Kim},
-    journal={arXiv preprint arXiv:1903.10663}
-    year={2019}
+  title={Combination of Multiple Global Descriptors for Image Retrieval},
+  author={Jun, HeeJae and Ko, ByungSoo and Kim, Youngjoon and Kim, Insik and Kim, Jongtack},
+  journal={arXiv preprint arXiv:1903.10663},
+  year={2019}
 }
 ```
 
