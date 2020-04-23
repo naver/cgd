@@ -2,6 +2,10 @@
 
 This is the repository to reproduce the results of our paper **"[Combination of Multiple Global Descriptors for Image Retrieval](https://arxiv.org/abs/1903.10663)"**.
 
+**HeeJae Jun\*, Byungsoo Ko\*, Youngjoon Kim, Insik Kim, Jongtack Kim** (* Authors contributed equally.)
+
+@NAVER/LINE Corp.
+
 ## Approach
 
 <div align="center">
