@@ -4,7 +4,7 @@ This is the repository to reproduce the results of our paper **"[Combination of 
 
 **HeeJae Jun\*, Byungsoo Ko\*, Youngjoon Kim, Insik Kim, Jongtack Kim** (* Authors contributed equally.)
 
-@NAVER/Line Vision
+@NAVER/LINE Vision
 
 ## Approach
 
